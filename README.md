@@ -37,4 +37,8 @@ This project explores the Pima Indians Diabetes dataset to predict the onset of 
 - `diabetes-final notebook.ipynb`: Main notebook
 - `logistic_regression_diabetes.pkl`: Saved model file
 
+## 🧠 Author
+👩‍💻 Mozhdeh Talebian  
+📍 Biomedical Engineering background + Data Science Enthusiast
+
 
