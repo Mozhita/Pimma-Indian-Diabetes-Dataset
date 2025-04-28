@@ -2,6 +2,11 @@
 
 This project explores the Pima Indians Diabetes dataset to predict the onset of diabetes using various machine learning models.
 
+## 📊 Dataset
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- **Size:** ~8 features, 768 observations
+- **Target variable:** Outcome
+
 ## 📋 Project Steps
 - Data Cleaning and Imputation (KNN Imputer)
 - Exploratory Data Analysis (EDA)
