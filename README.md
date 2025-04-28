@@ -20,6 +20,7 @@ This project explores the Pima Indians Diabetes dataset to predict the onset of 
 - **Best Model**: Logistic Regression
 - **ROC AUC Score**: ~0.81
 - **Top Features**: Glucose, BMI, Pregnancies
+- ![Feature Importance](outputs/logistic-regression-feature-importance.png)
 
 ## 🛠️ Tools Used
 - Python
