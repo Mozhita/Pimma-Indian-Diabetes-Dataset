@@ -22,6 +22,15 @@ This project explores the Pima Indians Diabetes dataset to predict the onset of 
 - **Top Features**: Glucose, BMI, Pregnancies
 ![Feature Importance](outputs/logistic-regression-feature-importance.png)
 
+## 📊 Models and Results
+
+| Model              | Accuracy   | F1 Score    | F1 Score    |
+|--------------------|------------|-------------|-------------|
+| Random Forest      |  0.727273  |  0.580000   |  0.820463   |
+| Logistic Regression|  0.733766  |  0.649573   |  0.813148   |
+| XGBoost            |  0.714286  |  0.584906   |  0.806667   |
+| K-Nearest Neighbors|  0.714286  |  0.596154   |  0.765926   |
+
 ## 🛠️ Tools Used
 - Python
 - Pandas, Numpy
